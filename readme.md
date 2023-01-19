@@ -6,11 +6,11 @@ The included tools are:
 
 - [x] Read JSON
 - [x] Write JSON
-- [ ] Produce a JSON encoded error response
+- [x] Produce a JSON encoded error response
 - [X] Upload a file to a specified directory
 - [x] Download a static file
 - [X] Get a random string of length n
-- [ ] Post JSON to a remote service 
+- [x] Post JSON to a remote service 
 - [x] Create a directory, including all parent directories, if it does not already exist
 - [x] Create a URL safe slug from a string
 
